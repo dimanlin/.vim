@@ -1,0 +1,1853 @@
+# Этот файл viminfo автоматически создан Vim 7.3.
+# Его можно (осторожно!) редактировать.
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~MSle0~/htt
+
+# Last Substitute Search Pattern:
+~MSle0&created_at
+
+# Последняя строка для замены:
+$
+
+# Командная строка, история (начиная от свежего к старому):
+:q
+:w
+:Rmodel account_time
+:e Gemfile
+:e /home/dimanlin/Projects/leaderboard/lib/unfuddle.rb
+:e /home/dimanlin/Projects/leaderboard/app/models/account/unfuddle.rb
+:e app/concerns/models/accountable.rb
+:e /home/dimanlin/Projects/leaderboard/app/workers/obtain_hours_worker.rb
+:Q
+:e app/uploaders/background_uploader.rb
+:e app/uploaders/slider_uploader.rb
+:e ./spec/models/background_spec.rb
+:e app/views/sessions/new.html.haml
+:Rmodel background
+:Rview admin/backgrounds/index.html.haml
+:Rmigration 
+:e spec/controllers/admin/users_controller_spec.rb
+:e spec/factories/backgrounds.rb
+:e spec/controllers/admin/backgrounds_controller_spec.rb
+:Rcontroller admin/backgrounds
+:e spec/models/.
+:e spec/factories/pages.rb
+:e spec/models/background_spec.rb
+:e spec/factories/sliders.rb
+:Rview devise/sessions/new.html.haml
+:e app/assets/stylesheets/.
+:e app/assets/stylesheets/admin/backgrounds.css.sass
+:Rview admin/backgrounds/new.html.haml
+:e config/routes.rb
+:Rview sessions/new.html.haml
+:e app/uploaders/.
+:Rlayout _admin_main_nav.html.haml
+:Rlayout admin.html.haml
+:e app/controllers/admin/.
+:Rcontroller admin/.
+:Rview admin/.
+:Rview layouts/_admin_main_nav.html.haml
+:e app/models/background.rb
+:Rview .
+:Rlayout application.html.haml
+:Rmigration .
+:Rcontroller admin/pages
+:Rmodel slider
+:Rview admin/sliders/edit.html.haml
+:Rview admin/pages/index.html.haml
+:e config/locales/.
+:Rview admin/pages/edit.html.haml
+:e config/locales/en.yml
+:e app/helpers/admin/pahes_helper.rb
+:e app/helpers/admin/inquiries_helper.rb
+
+# Строка поиска, история (начиная от свежего к старому):
+?/htt
+?/b-landing-content
+?/partner
+?/time_investe
+?/obtain_hours_for
+?/self.broken = false
+?/false
+?/actual
+?/new_ho
+?/unit
+?/Unit
+?/prop
+?/in_google_map
+?/develo
+?/side
+?/days_range
+?/account_time
+?/russi
+?/for
+?/map
+?/View
+?/view all
+?/show_sale_condos
+?/date
+?/rspec
+?/2.13.0
+?/rez_
+?/get_in
+?/defau
+?/rez.
+?/foto
+?/look
+?/Any
+?/Studio
+?/lmg_teams_team
+?/founder
+?/par
+? created_at
+?/Content
+?/lmg_team_founders
+?/User
+?/Peop
+?/peopl
+? people
+? content
+?/acg
+?/Page
+?/Conte
+?/devise
+?/live
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+@[{y(es)},n(o),a(ll),q(uit)] y
+@devise
+@:q
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Регистры:
+""0	CHAR	0
+	#      account_time = times.where(date: date).first_or_initialize
+	#      account_time.user = user
+	#      account_time.hours = total
+	#      account_time.save!
+	
+"1	CHAR	0
+	    puts "111111111111111"
+	    puts parsed_response.inspect
+	
+"2	CHAR	0
+	    puts "00000000000000"
+	    puts response.inspect
+	
+"3	CHAR	0
+	#        puts "AAAAAAAAAAAAAAa"
+	#        puts hours.inspect
+	
+"4	CHAR	0
+	    puts "AAAAAAAAAAAAAAAAaa"
+	    puts self.class.get("/projects.json").parsed_response.inspect
+	    puts self.class.get("/projects.json").parsed_response.size
+	
+"5	CHAR	0
+	    puts a
+	    3
+	
+"6	CHAR	0
+	    puts "00000000000000"
+	    puts response.inspect
+	
+"7	CHAR	0
+	    #.each do |method, values|
+	    # self.class.send(method, *values)
+	    #end
+	
+"8	CHAR	0
+	    puts "AAAAAAAAAAAAAAAAaa"
+	    puts self.class.get("/projects.json").parsed_response.inspect
+	    puts self.class.get("/projects.json").parsed_response.size
+	
+"9	CHAR	0
+	    puts a
+	    3
+	
+"u	CHAR	0
+	estion_check_box").is(':checked')u
+"-	CHAR	0
+	        puts "Ticket"
+
+# Глобальные отметки:
+'0  14  0  ~/Projects/leaderboard/app/models/account_time.rb
+'1  5  0  ~/Projects/lmg/app/uploaders/slider_uploader.rb
+'2  33  12  ~/Projects/leaderboard/lib/unfuddle.rb
+'3  13  12  ~/Projects/leaderboard/app/models/account/unfuddle.rb
+'4  16  0  ~/Projects/leaderboard/app/workers/obtain_hours_worker.rb
+'5  6  0  ~/Projects/orenda/app/controllers/pages_controller.rb
+'6  25  15  ~/Projects/orenda/app/views/developers/show.html.haml
+'7  17  11  ~/Projects/leaderboard/lib/tasks/account.rake
+'8  16  2  ~/Projects/orenda/app/views/layouts/application.html.haml
+'9  2  30  ~/Projects/leaderboard/app/controllers/my_tracks_controller.rb
+
+# Список прыжков (сначала более свежие):
+-'  14  0  ~/Projects/leaderboard/app/models/account_time.rb
+-'  31  79  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  29  0  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  30  0  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  33  0  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  25  0  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  10  5  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  11  4  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  9  5  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  8  10  ~/Projects/leaderboard/lib/unfuddle.rb
+-'  9  0  ~/Projects/leaderboard/app/concerns/models/accountable.rb
+-'  12  0  ~/Projects/leaderboard/app/workers/obtain_hours_worker.rb
+-'  1  0  ~/Projects/leaderboard/app/workers/obtain_hours_worker.rb
+-'  5  0  ~/Projects/lmg/app/uploaders/slider_uploader.rb
+-'  10  38  ~/Projects/lmg/spec/models/background_spec.rb
+-'  1  53  ~/Projects/lmg/app/views/sessions/new.html.haml
+-'  11  0  ~/Projects/lmg/app/models/background.rb
+-'  11  0  ~/Projects/lmg/Gemfile
+-'  19  2  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  25  5  ~/Projects/lmg/app/models/background.rb
+-'  38  45  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  11  10  ~/Projects/lmg/app/views/sessions/new.html.haml
+-'  10  28  ~/Projects/lmg/app/views/devise/sessions/new.html.haml
+-'  14  0  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  21  0  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  33  0  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  37  0  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  39  0  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  40  0  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  6  17  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  22  6  ~/Projects/lmg/config/routes.rb
+-'  24  26  ~/Projects/lmg/app/views/layouts/_admin_main_nav.html.haml
+-'  11  0  ~/Projects/lmg/app/views/layouts/admin.html.haml
+-'  2  29  ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+-'  14  0  ~/Projects/lmg/app/views/admin/backgrounds/index.html.haml
+-'  11  0  ~/Projects/lmg/config/routes.rb
+-'  27  22  ~/Projects/lmg/app/views/layouts/_admin_main_nav.html.haml
+-'  2  13  ~/Projects/lmg/app/views/sessions/new.html.haml
+-'  5  0  ~/Projects/lmg/app/views/devise/sessions/new.html.haml
+-'  9  0  ~/Projects/lmg/app/views/devise/sessions
+-'  7  0  ~/Projects/lmg/app/views/devise/sessions/new.html.haml
+-'  24  0  ~/Projects/lmg/app/views/layouts/application.html.haml
+-'  17  0  ~/Projects/lmg/app/views/admin/sliders/edit.html.haml
+-'  6  4  ~/Projects/lmg/app/views/admin/pages/index.html.haml
+-'  3  10  ~/Projects/lmg/app/views/admin/pages/edit.html.haml
+-'  2  6  ~/Projects/lmg/app/helpers/admin/pahes_helper.rb
+-'  3  0  ~/Projects/lmg/app/helpers/admin/inquiries_helper.rb
+-'  7  11  ~/Projects/lmg/app/views/admin/pages/edit.html.haml
+-'  11  0  ~/Projects/lmg/app/views/clients/show.html.haml
+-'  28  127  ~/Projects/lmg/db/seeds.rb
+-'  23  12  ~/Projects/lmg/db/seeds.rb
+-'  1  0  ~/Projects/lmg/db/seeds.rb
+-'  6  0  ~/Projects/leaderboard/app/models/account/unfuddle.rb
+-'  31  31  ~/Projects/leaderboard/app/models/account/unfuddle.rb
+-'  1  0  ~/Projects/leaderboard/app/models/account/unfuddle.rb
+-'  13  12  ~/Projects/leaderboard/app/models/account/unfuddle.rb
+-'  41  0  ~/Projects/leaderboard/app/models/account/unfuddle.rb
+-'  39  0  ~/Projects/leaderboard/app/models/account/unfuddle.rb
+-'  58  0  ~/Projects/leaderboard/db/seeds.rb
+-'  1  0  ~/Projects/leaderboard/db/seeds.rb
+-'  16  0  ~/Projects/leaderboard/app/workers/obtain_hours_worker.rb
+-'  99  6  ~/Projects/leaderboard/app/concerns/models/accountable.rb
+-'  1  0  ~/Projects/leaderboard/app/concerns/models/accountable.rb
+-'  29  0  ~/Projects/leaderboard/lib
+-'  8  0  ~/Projects/leaderboard/app
+-'  2  0  ~/Projects/leaderboard/config/schedule.rb
+-'  49  0  ~/Projects/leaderboard/lib/redmine.rb
+-'  2  0  ~/Projects/leaderboard/lib/redmine.rb
+-'  6  0  ~/Projects/leaderboard/app/workers/obtain_person_worker.rb
+-'  42  0  ~/Projects/leaderboard/config/schedule.rb
+-'  3  0  ~/Projects/leaderboard/app/models/account/unfuddle.rb
+-'  15  0  ~/Projects/leaderboard/app/models/account.rb
+-'  44  0  ~/Projects/leaderboard/lib/tasks/account.rake
+-'  8  0  ~/Projects/leaderboard/script
+-'  12  0  ~/Projects/leaderboard/config/schedule.rb
+-'  1  0  ~/Projects/leaderboard/app/models/account.rb
+
+# История местных отметок (от более свежих к старым):
+
+> ~/Projects/leaderboard/app/workers/obtain_hours_worker.rb
+	"	11	0
+	^	7	40
+	.	8	0
+	+	7	28
+	+	7	52
+	+	7	14
+	+	7	0
+	+	7	35
+	+	7	39
+	+	7	48
+	+	7	12
+	+	8	0
+	+	6	45
+	+	7	0
+	+	6	45
+	+	7	0
+	+	7	54
+	+	7	0
+	+	8	0
+
+> ~/Projects/leaderboard/Gemfile
+	"	26	12
+	^	26	14
+	.	26	14
+	+	3	19
+	+	5	39
+	+	5	38
+	+	4	18
+	+	5	0
+	+	44	31
+	+	26	14
+
+> ~/Projects/leaderboard/app/concerns/models/accountable.rb
+	"	9	0
+	^	94	23
+	.	94	22
+	+	38	28
+	+	38	26
+	+	41	0
+	+	36	31
+	+	37	26
+	+	39	32
+	+	40	29
+	+	42	27
+	+	92	30
+	+	97	0
+	+	90	27
+	+	91	28
+	+	93	28
+	+	93	52
+	+	94	14
+	+	94	15
+	+	96	23
+	+	94	22
+
+> ~/Projects/leaderboard/app/models/account/unfuddle.rb
+	"	25	31
+	^	24	67
+	.	24	65
+	+	50	0
+	+	57	38
+	+	58	0
+	+	14	25
+	+	14	12
+	+	41	30
+	+	41	25
+	+	39	28
+	+	39	25
+	+	39	25
+	+	39	0
+	+	40	0
+	+	15	0
+	+	45	64
+	+	46	0
+	+	41	0
+	+	41	0
+	+	41	12
+	+	41	0
+	+	45	0
+	+	41	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	48	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	41	0
+	+	38	0
+	+	33	29
+	+	33	25
+	+	33	0
+	+	33	27
+	+	37	0
+	+	33	79
+	+	34	0
+	+	33	22
+	+	34	39
+	+	36	8
+	+	35	12
+	+	34	0
+	+	33	5
+	+	31	31
+	+	23	54
+	+	31	18
+	+	30	28
+	+	31	10
+	+	33	0
+	+	33	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	31	30
+	+	23	53
+	+	34	0
+	+	18	0
+	+	19	0
+	+	19	90
+	+	23	41
+	+	32	0
+	+	23	6
+	+	30	0
+	+	20	30
+	+	20	35
+	+	31	0
+	+	23	6
+	+	20	37
+	+	23	41
+	+	29	8
+	+	23	46
+	+	20	36
+	+	23	55
+	+	19	27
+	+	19	24
+	+	23	71
+	+	20	85
+	+	23	8
+	+	20	55
+	+	23	0
+	+	23	0
+	+	20	0
+	+	23	12
+	+	20	74
+	+	42	0
+	+	23	0
+	+	21	28
+	+	22	25
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	24	1
+	+	25	3
+	+	26	5
+	+	27	7
+	+	23	10
+	+	24	65
+
+> ~/Projects/leaderboard/lib/unfuddle.rb
+	"	31	79
+	^	31	80
+	.	31	80
+	+	33	82
+	+	33	28
+	+	33	49
+	+	31	24
+	+	31	49
+	+	33	84
+	+	33	21
+	+	33	24
+	+	33	20
+	+	33	63
+	+	29	0
+	+	29	8
+	+	29	27
+	+	29	61
+	+	33	0
+	+	29	70
+	+	30	19
+	+	31	24
+	+	33	0
+	+	33	0
+	+	33	0
+	+	33	0
+	+	33	0
+	+	30	30
+	+	31	24
+	+	33	0
+	+	33	0
+	+	33	43
+	+	33	0
+	+	33	11
+	+	33	10
+	+	31	24
+	+	33	5
+	+	31	57
+	+	33	76
+	+	33	12
+	+	33	14
+	+	33	37
+	+	33	32
+	+	33	39
+	+	33	17
+	+	33	13
+	+	33	29
+	+	29	54
+	+	31	19
+	+	33	0
+	+	33	0
+	+	33	5
+	+	33	10
+	+	33	26
+	+	31	0
+	+	31	22
+	+	33	0
+	+	31	10
+	+	33	0
+	+	31	6
+	+	34	0
+	+	30	7
+	+	34	10
+	+	34	4
+	+	31	49
+	+	30	4
+	+	31	10
+	+	35	0
+	+	30	0
+	+	31	37
+	+	30	0
+	+	33	0
+	+	31	4
+	+	30	17
+	+	9	5
+	+	9	5
+	+	9	4
+	+	9	5
+	+	9	4
+	+	13	0
+	+	25	0
+	+	9	0
+	+	31	58
+	+	29	17
+	+	29	31
+	+	31	25
+	+	34	0
+	+	35	0
+	+	30	0
+	+	30	26
+	+	30	31
+	+	31	65
+	+	30	57
+	+	31	85
+	+	32	24
+	+	31	121
+	+	26	0
+	+	30	31
+	+	32	36
+	+	31	85
+	+	32	0
+	+	30	31
+	+	31	0
+	+	31	80
+
+> ~/Projects/leaderboard/app/models/account_time.rb
+	"	14	0
+
+> ~/Projects/lmg/db/seeds.rb
+	"	28	127
+	^	25	128
+	.	25	128
+	+	25	38
+	+	25	128
+
+> ~/Projects/lmg/app/models/page.rb
+	"	18	0
+	.	18	0
+	+	17	30
+	+	17	27
+	+	18	0
+
+> ~/Projects/lmg/app/views/clients/show.html.haml
+	"	11	0
+	^	11	38
+	.	13	0
+	+	2	42
+	+	2	22
+	+	11	31
+	+	2	22
+	+	3	0
+	+	11	13
+	+	11	0
+	+	12	0
+	+	13	0
+
+> ~/Projects/lmg/app/controllers/clients_controller.rb
+	"	19	0
+
+> ~/Projects/lmg/app/helpers/application_helper.rb
+	"	18	12
+
+> ~/Projects/lmg/Gemfile
+	"	11	0
+	^	8	0
+	.	9	0
+	+	19	16
+	+	4	0
+	+	39	89
+	+	39	1
+	+	18	10
+	+	20	15
+	+	17	9
+	+	16	158
+	+	9	0
+	+	16	128
+	+	16	126
+	+	17	0
+	+	16	92
+	+	37	21
+	+	37	0
+	+	16	104
+	+	5	38
+	+	16	73
+	+	16	79
+	+	17	0
+	+	34	21
+	+	37	0
+	+	29	60
+	+	29	0
+	+	38	0
+	+	29	0
+	+	29	0
+	+	52	1
+	+	54	0
+	+	30	0
+	+	54	71
+	+	54	0
+	+	16	47
+	+	16	48
+	+	17	0
+	+	16	13
+	+	53	22
+	+	15	17
+	+	55	0
+	+	39	73
+	+	40	0
+	+	34	0
+	+	34	75
+	+	15	0
+	+	16	0
+	+	9	0
+	+	15	0
+	+	36	1
+	+	14	20
+	+	13	20
+	+	9	0
+	+	13	0
+	+	33	18
+	+	12	15
+	+	9	0
+	+	12	0
+	+	50	148
+	+	50	79
+	+	50	79
+	+	50	0
+	+	51	0
+	+	9	13
+	+	16	24
+	+	17	0
+	+	56	0
+	+	30	0
+	+	59	0
+	+	31	0
+	+	30	0
+	+	31	0
+	+	9	40
+	+	10	20
+	+	9	14
+	+	10	18
+	+	10	0
+	+	10	0
+	+	5	0
+	+	5	87
+	+	7	0
+	+	7	86
+	+	7	16
+	+	7	0
+	+	7	39
+	+	10	36
+	+	8	0
+	+	5	0
+	+	7	0
+	+	5	0
+	+	6	41
+	+	9	14
+	+	9	42
+	+	5	0
+	+	9	41
+	+	5	34
+	+	9	32
+	+	8	0
+	+	9	0
+	+	10	0
+	+	8	0
+	+	9	0
+
+> ~/Projects/lmg/app/views/clients/index.html.haml
+	"	11	0
+
+> ~/Projects/lmg/app/views/lmg_teams/show.html.haml
+	"	16	27
+	.	14	0
+	+	14	0
+
+> ~/Projects/lmg/app/views/lmg_teams/index.html.haml
+	"	16	13
+	^	14	15
+	.	14	15
+	+	14	15
+
+> ~/Projects/lmg/app/views/admin/pages/edit.html.haml
+	"	3	10
+	^	2	11
+	.	2	11
+	+	3	36
+	+	2	11
+
+> ~/Projects/lmg/config/locales/en.yml
+	"	3	0
+	^	1	0
+	.	2	0
+	+	6	8
+	+	7	10
+	+	8	11
+	+	9	18
+	+	9	52
+	+	1	0
+	+	2	0
+
+> ~/Projects/lmg/app/helpers/admin/inquiries_helper.rb
+	"	1	0
+
+> ~/Projects/lmg/app/helpers/admin/pahes_helper.rb
+	"	1	0
+	.	2	0
+	+	1	25
+	+	2	3
+	+	2	0
+	+	2	31
+	+	2	4
+	+	2	17
+	+	2	6
+	+	2	30
+	+	2	0
+	+	2	0
+	+	2	0
+
+> ~/Projects/lmg/app/views/admin/pages/index.html.haml
+	"	6	4
+	^	5	74
+
+> ~/Projects/lmg/app/views/admin/sliders/edit.html.haml
+	"	17	0
+
+> ~/Projects/lmg/app/models/slider.rb
+	"	6	33
+	^	3	73
+	.	3	73
+	+	4	20
+	+	3	73
+
+> ~/Projects/lmg/app/controllers/admin/backgrounds_controller.rb
+	"	19	2
+	.	18	0
+	+	1	65
+	+	3	41
+	+	6	4
+	+	6	5
+	+	19	4
+	+	14	6
+	+	43	6
+	+	42	51
+	+	14	55
+	+	18	6
+	+	15	42
+	+	17	16
+	+	45	22
+	+	46	31
+	+	2	31
+	+	6	17
+	+	21	14
+	+	21	4
+	+	21	4
+	+	37	0
+	+	36	0
+	+	37	11
+	+	37	45
+	+	21	59
+	+	21	6
+	+	21	4
+	+	21	4
+	+	21	40
+	+	21	60
+	+	21	18
+	+	21	0
+	+	21	0
+	+	37	0
+	+	21	0
+	+	33	0
+	+	33	0
+	+	33	0
+	+	33	0
+	+	33	0
+	+	33	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	21	0
+	+	6	5
+	+	12	0
+	+	23	32
+	+	33	26
+	+	23	44
+	+	33	27
+	+	23	50
+	+	3	0
+	+	5	11
+	+	6	0
+	+	22	36
+	+	23	55
+	+	32	6
+	+	30	30
+	+	31	0
+	+	34	0
+	+	24	0
+	+	29	0
+	+	22	28
+	+	22	27
+	+	22	27
+	+	22	9
+	+	22	0
+	+	23	21
+	+	22	26
+	+	22	40
+	+	22	29
+	+	22	32
+	+	23	0
+	+	24	0
+	+	14	84
+	+	17	26
+	+	17	28
+	+	17	10
+	+	14	55
+	+	15	0
+	+	18	0
+	+	11	4
+	+	10	55
+	+	17	24
+	+	17	29
+	+	18	0
+
+> ~/Projects/lmg/app/controllers/admin/pages_controller.rb
+	"	4	0
+
+> ~/Projects/lmg/db/migrate/20130312103756_create_backgrounds.rb
+	"	5	31
+	^	4	32
+	.	4	32
+	+	4	0
+	+	5	34
+	+	4	32
+
+> ~/Projects/lmg/app/uploaders/background_uploader.rb
+	"	20	10
+	^	20	11
+	.	20	11
+	+	7	2
+	+	25	0
+	+	23	38
+	+	51	2
+	+	52	3
+	+	53	2
+	+	25	0
+	+	24	0
+	+	20	11
+
+> ~/Projects/lmg/app/uploaders/avatar_uploader.rb
+	"	57	0
+
+> ~/Projects/lmg/app/models/background.rb
+	"	13	4
+	^	11	6
+	.	11	7
+	+	2	48
+	+	4	39
+	+	13	4
+	+	7	3
+	+	4	74
+	+	7	19
+	+	8	12
+	+	12	6
+	+	9	25
+	+	11	28
+	+	7	20
+	+	7	21
+	+	8	13
+	+	7	16
+	+	8	0
+	+	7	29
+	+	4	39
+	+	5	0
+	+	8	7
+	+	7	4
+	+	8	6
+	+	9	27
+	+	27	5
+	+	28	0
+	+	24	8
+	+	23	15
+	+	24	41
+	+	23	0
+	+	24	0
+	+	27	0
+	+	23	0
+	+	24	0
+	+	27	0
+	+	24	54
+	+	26	37
+	+	23	14
+	+	24	41
+	+	25	42
+	+	22	0
+	+	4	39
+	+	5	0
+	+	21	4
+	+	20	5
+	+	15	24
+	+	17	4
+	+	15	14
+	+	16	26
+	+	6	20
+	+	8	23
+	+	8	26
+	+	9	0
+	+	25	9
+	+	11	7
+
+> ~/Projects/lmg/app/assets/stylesheets/blocks/b-landing-content.css.scss
+	"	8	11
+	^	5	20
+	.	6	0
+	+	5	20
+	+	5	20
+	+	6	0
+
+> ~/Projects/lmg/app/views/layouts/application.html.haml
+	"	24	0
+
+> ~/Projects/lmg/app/views/devise/sessions/new.html.haml
+	"	10	28
+
+> ~/Projects/lmg/app/views/sessions/new.html.haml
+	"	1	53
+	^	1	83
+	.	1	83
+	+	1	83
+
+> ~/Projects/lmg/app/views/layouts/admin.html.haml
+	"	11	0
+
+> ~/Projects/lmg/app/views/layouts/_admin_main_nav.html.haml
+	"	24	26
+	^	25	74
+	.	25	74
+	+	24	0
+	+	27	0
+	+	26	49
+	+	25	74
+
+> ~/Projects/lmg/config/routes.rb
+	"	21	8
+	^	20	12
+	.	20	12
+	+	7	0
+	+	8	0
+	+	18	29
+	+	22	6
+	+	21	8
+	+	20	21
+	+	19	15
+	+	20	12
+
+> ~/Projects/lmg/app/views/admin/backgrounds/index.html.haml
+	"	17	12
+	^	19	105
+	.	19	105
+	+	3	0
+	+	4	53
+	+	5	0
+	+	4	35
+	+	14	35
+	+	14	60
+	+	14	42
+	+	16	49
+	+	14	37
+	+	5	0
+	+	14	37
+	+	15	0
+	+	18	0
+	+	8	1
+	+	9	0
+	+	18	14
+	+	8	40
+	+	21	23
+	+	18	22
+	+	14	0
+	+	7	21
+	+	8	0
+	+	24	28
+	+	7	4
+	+	23	4
+	+	7	16
+	+	8	2
+	+	17	12
+	+	9	23
+	+	20	9
+	+	8	57
+	+	18	79
+	+	10	0
+	+	14	0
+	+	11	21
+	+	13	81
+	+	11	49
+	+	13	49
+	+	19	105
+
+> ~/Projects/lmg/app/views/admin/backgrounds/new.html.haml
+	"	5	4
+	^	2	21
+	.	2	21
+	+	2	16
+	+	4	42
+	+	5	23
+	+	6	11
+	+	4	13
+	+	2	21
+
+> ~/Projects/lmg/app/views/global_networks/show.html.haml
+	"	4	0
+
+> ~/Projects/lmg/app/controllers/admin/sliders_controller.rb
+	"	2	0
+
+> ~/Projects/lmg/app/uploaders/slider_uploader.rb
+	"	5	0
+
+> ~/Projects/lmg/app/assets/stylesheets/admin/backgrounds.css.sass
+	"	4	11
+	^	1	17
+	.	2	0
+	+	7	0
+	+	6	22
+	+	7	0
+	+	1	30
+	+	2	18
+	+	1	17
+	+	2	0
+	+	4	15
+	+	5	20
+	+	1	17
+	+	2	0
+
+> ~/Projects/lmg/spec/factories/backgrounds.rb
+	"	5	0
+	^	6	14
+	.	6	13
+	+	5	0
+	+	7	0
+	+	5	13
+	+	6	13
+
+> ~/Projects/lmg/spec/factories/sliders.rb
+	"	6	0
+
+> ~/Projects/lmg/spec/models/background_spec.rb
+	"	10	38
+	^	7	50
+	.	7	50
+	+	4	33
+	+	14	4
+	+	4	22
+	+	5	37
+	+	8	6
+	+	4	84
+	+	7	74
+	+	14	0
+	+	5	11
+	+	4	33
+	+	5	38
+	+	6	1
+	+	10	39
+	+	11	67
+	+	12	76
+	+	13	6
+	+	11	66
+	+	12	83
+	+	12	75
+	+	12	37
+	+	12	41
+	+	12	75
+	+	12	67
+	+	11	9
+	+	12	75
+	+	13	0
+	+	16	26
+	+	23	1
+	+	16	28
+	+	17	70
+	+	19	14
+	+	18	12
+	+	19	17
+	+	20	6
+	+	19	28
+	+	22	45
+	+	25	30
+	+	35	4
+	+	26	29
+	+	29	6
+	+	27	78
+	+	28	50
+	+	31	30
+	+	34	6
+	+	32	0
+	+	34	0
+	+	32	66
+	+	33	49
+	+	37	20
+	+	43	4
+	+	38	68
+	+	40	33
+	+	41	44
+	+	44	0
+	+	37	9
+	+	39	68
+	+	42	49
+	+	7	50
+
+> ~/Projects/lmg/spec/factories/pages.rb
+	"	5	0
+
+> ~/Projects/lmg/spec/models/role_spec.rb
+	"	5	0
+
+> ~/Projects/lmg/spec/controllers/admin/backgrounds_controller_spec.rb
+	"	29	0
+	^	22	6
+	.	22	6
+	+	10	4
+	+	7	16
+	+	8	23
+	+	9	36
+	+	10	5
+	+	23	10
+	+	8	0
+	+	23	22
+	+	23	4
+	+	23	6
+	+	23	19
+	+	23	0
+	+	23	33
+	+	23	141
+	+	23	9
+	+	23	14
+	+	23	8
+	+	23	1
+	+	23	13
+	+	23	41
+	+	23	17
+	+	33	24
+	+	33	4
+	+	33	10
+	+	33	53
+	+	33	6
+	+	33	54
+	+	33	44
+	+	33	23
+	+	33	6
+	+	33	0
+	+	33	10
+	+	33	32
+	+	33	6
+	+	33	0
+	+	33	0
+	+	33	51
+	+	33	47
+	+	23	37
+	+	23	48
+	+	23	143
+	+	23	0
+	+	33	0
+	+	34	26
+	+	30	5
+	+	6	0
+	+	5	0
+	+	7	0
+	+	26	78
+	+	12	23
+	+	20	4
+	+	14	29
+	+	13	52
+	+	14	47
+	+	19	34
+	+	16	40
+	+	18	6
+	+	15	13
+	+	16	42
+	+	17	42
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	22	6
+
+> ~/Projects/lmg/spec/controllers/admin/users_controller_spec.rb
+	"	7	0
+
+> ~/Projects/leaderboard/db/seeds.rb
+	"	58	0
+
+> ~/Projects/leaderboard/db/migrate/20130305194256_change_project_code_climate_gpa_decimal_scale.rb
+	"	7	0
+
+> ~/Projects/leaderboard/app/views/my_tracks/index.html.haml
+	"	17	0
+	^	2	19
+	.	3	0
+	+	2	19
+	+	6	25
+	+	6	33
+	+	6	26
+	+	6	28
+	+	6	26
+	+	6	27
+	+	14	41
+	+	16	42
+	+	19	0
+	+	18	18
+	+	19	10
+	+	19	0
+	+	18	0
+	+	17	0
+	+	6	0
+	+	6	0
+	+	6	0
+	+	6	0
+	+	6	0
+	+	14	0
+	+	21	10
+	+	4	6
+	+	5	0
+	+	6	0
+	+	6	0
+	+	14	0
+	+	7	9
+	+	6	0
+	+	7	9
+	+	6	0
+	+	9	0
+	+	10	22
+	+	11	0
+	+	12	0
+	+	9	0
+	+	12	22
+	+	13	0
+	+	15	0
+	+	7	0
+	+	16	55
+	+	16	73
+	+	16	51
+	+	16	60
+	+	17	0
+	+	2	19
+	+	3	0
+
+> ~/Projects/leaderboard/app/controllers/my_tracks_controller.rb
+	"	6	0
+	^	11	7
+	.	12	0
+	+	1	48
+	+	13	0
+	+	2	42
+	+	12	4
+	+	2	39
+	+	12	0
+	+	2	57
+	+	5	0
+	+	12	0
+
+> ~/Projects/leaderboard/app/models/account.rb
+	"	16	0
+	^	13	39
+	.	16	0
+	+	13	62
+	+	14	0
+	+	13	39
+	+	15	1
+	+	14	0
+	+	15	23
+	+	16	0
+	+	15	22
+	+	15	23
+	+	2	0
+	+	18	0
+	+	15	34
+	+	13	39
+	+	14	0
+	+	16	0
+
+> ~/Projects/leaderboard/config/schedule.rb
+	"	11	0
+
+> ~/Projects/leaderboard/lib/tasks/account.rake
+	"	18	0
+	^	40	8
+	.	45	0
+	+	44	27
+	+	44	30
+	+	38	19
+	+	39	8
+	+	41	8
+	+	45	0
+
+> ~/Projects/leaderboard/app/controllers/account/unfuddle_controller.rb
+	"	8	0
+
+> ~/Projects/leaderboard/app/workers/obtain_person_worker.rb
+	"	4	38
+	^	4	39
+	.	5	0
+	+	4	39
+	+	5	0
+
+> ~/Projects/leaderboard/lib/redmine.rb
+	"	49	0
+	.	51	0
+	+	50	25
+	+	50	24
+	+	51	0
+
+> ~/Projects/leaderboard/app/models/user.rb
+	"	25	0
+
+> ~/Projects/orenda/app/views/searches/show.haml
+	"	4	0
+	^	1	0
+	.	1	0
+	+	9	31
+	+	10	7
+	+	10	0
+	+	11	1
+	+	10	39
+	+	9	26
+	+	10	0
+	+	8	4
+	+	10	0
+	+	9	0
+	+	7	4
+	+	8	0
+	+	4	0
+	+	1	0
+
+> ~/Projects/orenda/app/views/layouts/application.html.haml
+	"	67	29
+	^	67	36
+	.	67	35
+	+	31	31
+	+	31	40
+	+	32	13
+	+	9	152
+	+	12	36
+	+	7	0
+	+	13	36
+	+	157	0
+	+	168	0
+	+	166	52
+	+	164	34
+	+	166	72
+	+	7	0
+	+	8	0
+	+	9	0
+	+	11	0
+	+	66	24
+	+	168	0
+	+	168	0
+	+	66	24
+	+	67	35
+
+> ~/Projects/orenda/app/views/shared/_main_google_map.haml
+	"	7	4
+
+> ~/Projects/orenda/app/controllers/developers_controller.rb
+	"	1	0
+	^	5	30
+	.	5	30
+	+	2	36
+	+	7	0
+	+	2	39
+	+	4	10
+	+	5	30
+
+> ~/Projects/orenda/app/views/developers/show.html.haml
+	"	29	0
+	^	35	53
+	.	35	53
+	+	37	19
+	+	37	0
+	+	1	0
+	+	5	19
+	+	11	23
+	+	19	0
+	+	30	0
+	+	31	0
+	+	35	56
+	+	37	0
+	+	35	63
+	+	23	40
+	+	35	41
+	+	11	25
+	+	23	25
+	+	36	0
+	+	35	43
+	+	34	28
+	+	35	0
+	+	35	27
+	+	35	30
+	+	36	0
+	+	35	23
+	+	12	0
+	+	14	20
+	+	16	24
+	+	21	22
+	+	28	30
+	+	24	0
+	+	26	22
+	+	28	29
+	+	29	0
+	+	9	50
+	+	14	22
+	+	21	24
+	+	26	24
+	+	35	53
+
+> ~/Projects/orenda/spec/controllers/developers_spec.rb
+	"	10	4
+	^	7	5
+	.	8	0
+	+	12	37
+	+	15	48
+	+	12	31
+	+	15	46
+	+	3	18
+	+	10	17
+	+	12	21
+	+	15	48
+	+	16	50
+	+	8	0
+	+	5	0
+	+	8	0
+
+> ~/Projects/orenda/spec/factories/developer.rb
+	"	1	0
+	.	9	0
+	+	8	35
+	+	8	6
+	+	8	1
+	+	8	1
+	+	8	5
+	+	8	5
+	+	8	6
+	+	8	0
+	+	8	7
+	+	8	6
+	+	8	0
+	+	8	0
+	+	8	6
+	+	8	6
+	+	8	33
+	+	8	6
+	+	9	0
+
+> ~/Projects/orenda/spec/factories/condo.rb
+	"	8	0
+
+> ~/Projects/orenda/spec/factories/unit.rb
+	"	5	0
+
+> ~/Projects/orenda/spec/factories/user.rb
+	"	14	0
+
+> ~/Projects/orenda/spec/controllers/condos_spec.rb
+	"	9	0
+
+> ~/Projects/orenda/app/assets/stylesheets/style.css
+	"	2037	8
+	^	2036	9
+	.	2036	9
+	+	2036	9
+
+> ~/Projects/orenda/app/controllers/contacts_controller.rb
+	"	5	0
+	^	4	6
+	.	4	6
+	+	6	0
+	+	4	6
+
+> ~/Projects/orenda/app/views/pages/index.haml
+	"	40	57
+	^	40	58
+	.	41	0
+	+	22	185
+	+	26	184
+	+	31	186
+	+	40	33
+	+	1	0
+	+	41	0
+	+	3	0
+	+	1	30
+	+	2	1
+	+	1	32
+	+	41	0
+
+> ~/Projects/orenda/app/views/units/show.html.haml
+	"	29	8
+	^	48	10
+	.	48	0
+	+	3	0
+	+	1	0
+	+	3	12
+	+	4	0
+	+	9	352
+	+	9	22
+	+	59	34
+	+	59	27
+	+	59	28
+	+	59	10
+	+	59	14
+	+	59	30
+	+	59	26
+	+	59	24
+	+	59	26
+	+	59	20
+	+	59	21
+	+	59	21
+	+	59	28
+	+	59	28
+	+	60	0
+	+	59	0
+	+	61	12
+	+	62	0
+	+	59	21
+	+	9	1
+	+	59	43
+	+	59	22
+	+	9	12
+	+	9	2
+	+	59	0
+	+	9	1
+	+	9	28
+	+	9	28
+	+	9	1
+	+	9	9
+	+	9	1
+	+	9	10
+	+	12	1
+	+	11	20
+	+	14	13
+	+	16	8
+	+	15	25
+	+	17	10
+	+	18	14
+	+	19	26
+	+	20	24
+	+	23	14
+	+	23	28
+	+	23	28
+	+	24	7
+	+	24	26
+	+	27	19
+	+	28	20
+	+	30	14
+	+	31	20
+	+	32	21
+	+	36	20
+	+	37	21
+	+	40	30
+	+	41	28
+	+	43	14
+	+	44	30
+	+	45	1
+	+	10	0
+	+	54	5
+	+	9	6
+	+	8	0
+	+	9	0
+	+	33	11
+	+	59	0
+	+	54	0
+	+	46	11
+	+	60	0
+	+	51	0
+	+	50	25
+	+	51	0
+	+	47	35
+	+	48	0
+
+> ~/Projects/orenda/app/views/condos/show.html.haml
+	"	6	0
+	^	57	6
+	.	56	5
+	+	55	36
+	+	56	0
+	+	57	0
+	+	55	8
+	+	54	1
+	+	55	3
+	+	56	5
+
+> ~/Projects/orenda/app/models/unit.rb
+	"	12	0
+	^	12	0
+	.	13	0
+	+	13	0
+	+	13	0
+
+> ~/Projects/orenda/app/views/units/_search_block.html.haml
+	"	25	0
+
+> ~/Projects/orenda/db/seeds.rb
+	"	103	54
+	^	103	57
+	.	103	57
+	+	103	57
+
+> ~/Projects/orenda/app/controllers/pages_controller.rb
+	"	6	0
+
+> ~/Projects/orenda/app/controllers/condos_controller.rb
+	"	8	0
+
+> ~/Projects/orenda/app/models/condo.rb
+	"	28	3
+	^	68	5
+	.	69	0
+	+	34	19
+	+	36	4
+	+	35	33
+	+	69	4
+	+	69	0
+	+	69	0
+	+	70	0
+	+	70	0
+	+	40	4
+	+	39	19
+	+	39	90
+	+	39	4
+	+	40	0
+	+	38	18
+	+	39	30
+	+	42	17
+	+	69	0
+	+	43	21
+	+	46	29
+	+	48	4
+	+	47	4
+	+	50	0
+	+	69	0
+	+	50	17
+	+	51	35
+	+	58	7
+	+	54	18
+	+	60	4
+	+	55	4
+	+	59	29
+	+	68	5
+	+	62	34
+	+	64	4
+	+	63	4
+	+	66	17
+	+	67	63
+	+	69	0
+	+	69	0
+
+> ~/Projects/orenda/app/assets/stylesheets/application.css.sass
+	"	11	10
+	^	13	11
+	.	13	11
+	+	4	36
+	+	4	1
+	+	4	1
+	+	4	1
+	+	4	0
+	+	14	0
+	+	5	16
+	+	304	19
+	+	304	0
+	+	305	0
+	+	7	17
+	+	9	16
+	+	10	35
+	+	12	10
+	+	13	11
+	+	11	18
+	+	12	11
+	+	13	11
+
+> ~/Projects/orenda/app/models/ability.rb
+	"	15	0
+	^	22	14
+	.	22	14
+	+	22	24
+	+	23	0
+	+	22	14
+
+> ~/Projects/orenda/config/routes.rb
+	"	44	22
+	^	44	23
+	.	44	23
+	+	39	0
+	+	38	0
+	+	37	18
+	+	44	23
+
+> ~/Projects/orenda/app/views/condos/_condo.html.haml
+	"	9	0
+	^	2	0
+	.	3	0
+	+	3	0
+	+	1	0
+	+	3	58
+	+	3	0
+	+	3	53
+	+	3	8
+	+	34	10
+	+	37	5
+	+	37	13
+	+	3	23
+	+	3	20
+	+	1	0
+	+	2	0
+	+	3	37
+	+	3	0
+	+	38	0
+	+	3	37
+	+	3	0
+	+	3	0
+	+	3	48
+	+	3	9
+	+	3	39
+	+	3	33
+	+	3	15
+	+	3	15
+	+	3	59
+	+	3	60
+	+	18	0
+	+	18	33
+	+	19	10
+	+	21	38
+	+	22	0
+	+	24	32
+	+	26	32
+	+	23	26
+	+	27	0
+	+	28	39
+	+	29	43
+	+	31	43
+	+	34	29
+	+	36	71
+	+	3	49
+	+	1	0
+	+	1	16
+	+	1	19
+	+	2	0
+	+	3	0
+	+	6	0
+	+	1	0
+	+	3	0
+
+> ~/Projects/orenda/app/models/developer.rb
+	"	11	68
+	^	11	75
+	.	12	0
+	+	11	75
+	+	12	0
+
+> ~/Projects/orenda/app/assets/stylesheets/developer.css.sass
+	"	1	0
+	.	2	0
+	+	2	24
+	+	2	19
+	+	2	12
+	+	2	0
+	+	2	0
+
+> ~/Projects/orenda/config/locales/developer.ru.yml
+	"	3	14
+	^	6	76
+	.	6	74
+	+	2	8
+	+	3	15
+	+	4	11
+	+	5	63
+	+	6	74
+
+> ~/Projects/orenda/spec/controllers/cities_spec.rb
+	"	1	0
+
+> ~/Projects/orenda/spec/controllers/developers_spec.ru
+	"	12	2
+	^	10	8
+	.	10	8
+	+	1	0
+	+	12	2
+	+	4	21
+	+	5	42
+	+	10	8
+
+> ~/Projects/orenda/spec/controllers/developers_spec.br
+	"	4	0
+
+> ~/Projects/leaderboard/app/models/ability.rb
+	"	10	28
+	^	7	34
+	.	7	34
+	+	7	34
+
+> ~/Projects/leaderboard/app/views/welcome/index.html.haml
+	"	2	0
+
+> ~/Projects/leaderboard/app/views/leaderboard/show.html.haml
+	"	15	8
+
+> ~/Projects/leaderboard/app/controllers/leaderboard_controller.rb
+	"	6	0
+
+> ~/Projects/leaderboard/app/views/layouts/application.html.haml
+	"	14	13
+	^	12	14
+	.	12	15
+	+	12	15
+
+> ~/Projects/leaderboard/app/assets/stylesheets/my_tracks.css.sass
+	"	9	0
+	^	8	30
+	.	10	0
+	+	10	27
+	+	7	28
+	+	8	30
+	+	10	0
+
+> ~/Projects/leaderboard/config/locales/ru.yml
+	"	136	0
+
+> ~/Projects/leaderboard/app/models/account/redmine.rb
+	"	24	8
+
+> ~/Projects/orenda/app/assets/stylesheets/condos.css.sass
+	"	14	13
+	^	11	21
+	.	11	21
+	+	14	23
+	+	12	0
+	+	11	21
